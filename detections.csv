@@ -1,0 +1,7 @@
+Timestamp,Label,Confidence,Latitude,Longitude,Image
+2025-08-04 21:02:13,person,0.90,N/A,N/A,snapshots\snapshot_2025-08-04_21-02-13.jpg
+2025-08-04 21:17:22,person,0.90,10.76755747,76.66786297,snapshots\snapshot_2025-08-04_21-17-22.jpg
+2025-08-05 19:34:13,person,0.82,10.76762387,76.66792546,snapshots\snapshot_2025-08-05_19-34-13.jpg
+2025-08-05 19:46:00,person,0.71,10.76761359,76.66789847,snapshots\snapshot_2025-08-05_19-46-00.jpg
+2025-08-09 08:43:15,person,0.53,N/A,N/A,snapshots\snapshot_2025-08-09_08-43-15.jpg
+2025-08-09 08:53:46,person,0.76,N/A,N/A,snapshots\snapshot_2025-08-09_08-53-46.jpg

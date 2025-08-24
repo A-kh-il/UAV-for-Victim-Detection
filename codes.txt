@@ -1,0 +1,4 @@
+C:\Users\akhil\AppData\Local\Microsoft\WindowsApps\python.exe -m streamlit run dashboard_ui.py
+
+
+cd "D:\uav fina year"
